@@ -6,7 +6,7 @@ This works with playlists as well, simply provide any link within a YouTube play
 
 It can also embed the relative metadata into the FLAC (assuming it's a song) and embed the album cover as well. (it works about 70% of the time lol)
 
-The quality of the audio is entirely dependant on the audio quality of the video and it's also worth noting that YouTube can't be lossless.
+The quality of the audio is entirely dependant on the audio quality of the video and it's also worth noting that YouTube can't be lossless. It beats using those sketchy conversion websites! 
 
 *Entirely made with chatGPT*
 
