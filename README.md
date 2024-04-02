@@ -8,6 +8,12 @@ It can also embed the relative metadata into the FLAC (assuming it's a song) and
 
 The quality of the audio is entirely dependant on the audio quality of the video and it's also worth noting that YouTube can't be lossless.
 
+Also make sure to change this to the folder path you want the FLAC's to be placed in:
+```sh
+  # Define the output directory for the FLAC file
+  output_path = r'CHANGE/THIS/TO/YOUR/PATH'
+  ```
+
 ### Required Dependencies
 
 Here's a list of the required dependencies needed for the script to run properly.
